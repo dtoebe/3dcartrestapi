@@ -18,3 +18,5 @@ GoDoc:
 ```bash
 $ godoc github.com/dtoebe/3dcartrestapi/receiver
 ```
+
+_I'll build more examples as I need or upon request_
